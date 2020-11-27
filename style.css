@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+.text {
+    color: white;
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+input {
+    text-align: left;
+    color: gray;
+    font-size: medium;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+.box1 {
+    border-radius: 20%;
+    border: 5px solid white;
+    background-color: black;    
+    text-align: center;
+    padding: 20px;
+    width: 200px;
+    height: auto;
+    position: absolute;
+    bottom: 10%;
+    left: 16px;
+    font-size: 18px;
+}
+p {
+    color: white;
+    text-align: center;
+}
+a, a:hover, a:active, a:focus {
+    text-decoration:none;
+}
+a:visited{
+    color: white;
+}
+/* .judul {
+    width: auto;
+    background-color: rgb(216, 216, 216);
+    text-align: center;
+} */
